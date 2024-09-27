@@ -1,0 +1,8 @@
+{
+  "What are the main building blocks of Flutter UIs?": "Widgets",
+  "How are Flutter UIs built?": "By combining widgets in code",
+  "What's the purpose of a StatefulWidget?": "Update UI as data changes",
+  "Which widget should you try to use more often: StatelessWidget or StatefulWidget?": "StatelessWidget",
+  "What happens if you change data in a StatelessWidget?": "The UI is not updated",
+  "How should you update data inside of StatefulWidgets?": "By calling setState()"
+}
